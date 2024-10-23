@@ -12,4 +12,4 @@ npm install vue@latest vue-loader@latest
 npm install pinia
 
 
-npm install --save-dev @vitejs/plugin-vue
+https://www.youtube.com/watch?v=-bJL00w5Mig

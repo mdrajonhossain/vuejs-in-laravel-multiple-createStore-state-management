@@ -10,3 +10,6 @@ npm install vue@latest vue-loader@latest
 
 <!-- multipe createstoroe pinia -->
 npm install pinia
+
+
+npm install --save-dev @vitejs/plugin-vue

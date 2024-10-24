@@ -1,8 +1,8 @@
 <template>
   <div>
     <h2>{{userStore.body}}</h2>    
-    sadfasdfasdf
-    <router-link to="/">Home</router-link>
+    Home
+    <router-link to="/profile">Profile</router-link>
   </div>
 </template>
 

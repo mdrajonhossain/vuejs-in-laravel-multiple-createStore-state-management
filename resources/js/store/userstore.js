@@ -10,7 +10,8 @@ export const useUserStore = defineStore('user', {
   }),
   actions:{
   	adme(a){
-  	this.header = "mouse";
+  	this.header = a;
+  	this.filename = a;
   }
   }
 });

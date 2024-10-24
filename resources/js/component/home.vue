@@ -4,7 +4,7 @@
     <h2>{{userStore.filename}}</h2>    
     Home
     <router-link to="/profile">Profile</router-link>
-    <button @click="()=>userStore.adme('b')">OneClick</button>
+    <button @click="()=>userStore.adme('Keyboard')">OneClick</button>
   </div>
 </template>
 

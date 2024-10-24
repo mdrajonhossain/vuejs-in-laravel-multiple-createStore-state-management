@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>{{userStore.body}}</h2>    
+    <h2>{{userStore.header}}</h2>    
     sadfasdfasdf
     <router-link to="/">Home</router-link>
   </div>

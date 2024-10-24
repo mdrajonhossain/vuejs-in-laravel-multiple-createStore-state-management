@@ -5,5 +5,7 @@ export const useUserStore = defineStore('user', {
     header: 'header test',
     body: 'body2',
     footer: 'footer=',
+    name: "Welcome",
+    filename:"mouse"
   }),
 });

@@ -8,5 +8,5 @@ Route::get('/', function () {
 
 
 Route::get('/{any}', function () {
-    return view('welcome'); // Ensure your welcome.blade.php loads the Vue app.
+    return view('welcome');
 })->where('any', '.*');

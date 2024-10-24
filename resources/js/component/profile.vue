@@ -3,6 +3,8 @@
     <h2>{{userStore.header}}</h2>    
     sadfasdfasdf
     <router-link to="/">Home</router-link>
+    <button @click="()=>userStore.adme('a')">OneClick</button>
+
   </div>
 </template>
 

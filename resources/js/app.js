@@ -11,4 +11,7 @@ const pinia = createPinia();
 appInstance.use(pinia);
 appInstance.use(router);
 
+
+
+
 appInstance.mount('#app');

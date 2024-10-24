@@ -4,8 +4,15 @@ export const useUserStore = defineStore('user', {
   state: () => ({
     header: 'header test',
     body: 'body2',
-    footer: 'footer=',
+    footer: 'footer',
     name: "Welcome",
     filename:"mouse"
   }),
+  actions:{
+  	adme(a){
+  	this.header = "mouse";
+  }
+  }
 });
+
+
